@@ -1,0 +1,25 @@
+{
+  "short_name": "Waqas",
+  "name": "Waqas khan's Portfolio",
+  "icons": [
+    {
+    "src": "https://drive.google.com/u/0/uc?id=1-wybmU-q4tljQ3bJAtcHE_Lst_PNdWYx&export=download",
+    "sizes": "64x64 32x32 24x24 16x16",
+    "type": "image/x-icon"
+    },
+    {
+      "src": "https://drive.google.com/u/0/uc?id=1-wybmU-q4tljQ3bJAtcHE_Lst_PNdWYx&export=download",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://drive.google.com/u/0/uc?id=1-wybmU-q4tljQ3bJAtcHE_Lst_PNdWYx&export=download",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
